@@ -1,6 +1,6 @@
 %define		_name		AquaFusion
 Summary:	KDE Icons Theme - AquaFusion
-Summary(pl):	Motyw ikon dla KDE - AquaFusion
+Summary(pl.UTF-8):   Motyw ikon dla KDE - AquaFusion
 Name:		kde-icons-aquafusion
 Version:	0.5.1
 Release:	1
@@ -16,7 +16,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 KDE Icons Theme - AquaFusion.
 
-%description -l pl
+%description -l pl.UTF-8
 Motyw ikon dla KDE - AquaFusion.
 
 %prep
